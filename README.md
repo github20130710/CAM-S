@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cam
 
 > company activity management
@@ -28,3 +29,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# CAM-S
+company activity management
+>>>>>>> 4294c42c0e9d9d8218452fdc2b2b734bee48eab2
